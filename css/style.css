@@ -1,0 +1,549 @@
+*{
+    margin:0;
+    padding: 0;
+    /* float: left; */
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+header{
+    width: 100%;
+    float: left;
+    background-color: #171938;
+    border-bottom: 3px solid #8a8181;
+}
+
+.logo{
+    width: 33.33%;
+    float: left;
+}
+
+img{
+
+width: 80px;
+
+margin-left: 130px;
+
+padding: 16px;
+}
+
+.menu{
+    width: 33.33%;
+    float: left;
+}
+
+ul{
+    list-style: none;
+    margin: 30px;
+}
+
+li{
+    float: left;
+    margin-left: 26px;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.icon{
+    width: 33.33%;
+    float: left;
+}
+
+.button{
+
+padding: 9px 20px;
+
+background-color: #19d1ef;
+
+color: #000;
+
+border: none;
+
+border-radius: 5px;
+
+margin-top: 25px;
+
+margin-left: 60px;
+
+float: left;
+}
+
+.menu-icon-div{
+    float: left;
+    margin-top: 18px;
+}
+
+.menu-icon{
+    color: #eae2e2;
+    font-size: 29px;
+    padding-left: 14px;
+    margin-top: 8px;
+}
+
+/*********************** Header Section Css End ***********************************/
+
+
+
+
+/*********************** Hero Section Start ***************************************/
+
+.hero{
+    width: 100%;
+    float: left;
+    background-color: #171938;
+    z-index: 160;
+}
+
+.hero-text-div{
+    width: 50%;
+    float: left;
+}
+
+.hero-text-div-inner{
+    width: 386px;
+    margin-left: 130px;
+    margin-top: 130px;
+    margin-bottom: 90px;
+}
+
+
+
+.hero-h-one{
+    font-size: 34px;
+    color: #fff;
+}
+
+.hero-p{
+    color: #afa5a5;
+    margin-top: 58px;
+    line-height: 1.9;
+}
+
+.hero-button-one{
+    background-color: #19d1ef;
+    color: #000;
+    border: none;
+    border-radius: 5px;
+    padding: 13px;
+}
+
+.hero-button-two{
+    background-color: transparent;
+    color: #f1e8e8;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    padding: 13px 15px;
+    margin-left: 6px;
+    margin-top: 44px;
+}
+
+.hero-img-div{
+    width: 50%;
+    float: left;
+}
+
+.hero-img-div-inner{
+    margin-top: 35px;
+    width: 357px;
+    /* z-index: 420; */
+}
+
+.hero-img-div img{
+    width: 296px;
+}
+
+
+
+/*********************** Hero Section End ***************************************/
+
+
+/********************** Second Section Start ************************************/
+.second-section{
+    width: 100%;
+    float: left;
+    /* z-index: 0; */
+}
+
+.second-section-text-div{
+    Width: 100%;
+
+}
+
+.second-section-h-two{
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+    padding-top: 140px;
+}
+
+hr{
+    width: 70px;
+    height: 3px;
+    background-color: #17efe5;
+    margin: 60px 531px;
+    border: none;
+}
+
+.icon-items{
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+
+.icon-inner-img{
+    width: 100px;
+    margin: 0;
+}
+
+.icon-one{
+    width: 25%;
+    float: left;
+}
+
+.icon-one-inner{}
+
+.second-section-one-h-four{}
+
+.second-section-one-p{
+    line-height: 1.7;
+    margin-top: 15px;
+}
+
+.icon-inner-hr{
+    background-color: #bbaaaa94;
+    width: 259px;
+    margin-left: 12px;
+}
+
+.icon-two{
+    width: 25%;
+    float: left;
+}
+
+.icon-two-inner{}
+
+.second-section-two-h-four{}
+
+.second-section-two-p{
+    line-height: 1.7;
+    margin-top: 15px;
+}
+
+.icon-three{
+    width: 25%;
+    float: left;
+}
+
+.icon-three-inner{}
+
+.second-section-three-h-four{}
+
+.second-section-three-p{
+    line-height: 1.7;
+    margin-top: 15px;
+}
+
+.icon-four{
+    width: 25%;
+    float: left;
+}
+
+.icon-four-inner{}
+
+.second-section-four-h-four{}
+
+.second-section-four-p{
+    line-height: 1.7;
+    margin-top: 15px;
+}
+
+/********************** Second Section End ************************************/
+
+
+
+/********************* Three Number Section Start *****************************/
+.three-number-section{
+    width: 100%;
+    float: left;
+}
+
+.three-section-inner-one{
+    width: 50%;
+    float: left;
+    background-color: #171938;
+    height: 350px;
+}
+
+.three-section-inner-two{
+    width: 50%;
+    float: left;
+    background-color: #efeaea45;
+}
+
+.three-section-h-two{
+    width: 330px;
+    margin-left: 50px;
+    line-height: 1.5;
+    margin-top: 45px;
+}
+
+.three-section-p{
+    width: 400px;
+    margin-left: 49px;
+    line-height: 1.6;
+    padding-bottom: 58px;
+}
+
+/********************* Three Number Section End*****************************/
+
+
+/********************* Four Number Section Start **************************/
+.four-number-section{
+    width: 100%;
+    float: left;
+}
+
+.four-number-section-text{
+    width: 50%;
+    float: left;
+}
+
+.four-number-section-h-two{
+    text-align: right;
+    margin-top: 100px;
+}
+
+.four-number-section-p{text-align: right;line-height: 1.7;color: #948686;width: 400px;margin-left: 170px;margin-top: 53px;}
+
+.four-number-section-button{
+    margin-left: 400px;
+    padding: 15px 20px;
+    margin-top: 18px;
+    background-color: #5dd8e4;
+    border-radius: 5px;
+    border: none;
+}
+
+.four-number-section-img-div{
+    width: 50%;
+    float: left;
+}
+
+.four-number-section-img{
+    width: 433px;
+    margin-top: 125px;
+    padding-bottom: 34px;
+}
+/********************* Four Number Section End **************************/
+
+/******************** Five Number Section Start ************************/
+.five-number-section{
+    width: 100%;
+    float: left;
+}
+
+.five-number-section-img-div{
+    width: 50%;
+    float: left;
+}
+
+.five-number-section-img{
+    width: 390px;
+    margin-top: 100px;
+}
+
+.five-number-section-menu-div{
+    width: 50%;
+    float: left;
+}
+
+.five-number-section-ul{
+    margin-top: 150px;
+}
+
+.five-number-section-li{
+    background-color: #e5ece5;
+    width: 300px;
+    height: 50px;
+    margin: 10px;
+    box-shadow: 1px 1px 5px #8c7676;
+}
+
+.five-number-section-h-five{
+    font-size: 17px;
+    margin-top: 14px;
+    margin-left: 58px;
+}
+
+.five-section-icon{
+    font-size: 32px;
+    float: left;
+    padding: 10px;
+}
+
+
+/******************** Five Number Section End ************************/
+
+
+
+
+
+
+/******************** Full BG Section Start *************************/
+.full-bg-section{
+    width: 100%;
+    float: left;
+    background-color: #252348;
+}
+
+
+.full-bg-img-div{
+    width: 100%;
+    float: left;
+}
+
+.full-bg-img{margin: x;margin-left: 511px;margin-top: 140px;}
+
+.full-bg-heading-div{
+    width: 100%;
+    float: left;
+}
+
+.full-bg-h-three{
+    text-align: center;
+    color: #bfb5b5;
+    letter-spacing: 2px;
+    font-weight: 3;
+}
+
+.full-bg-text-div{
+    width: 100%;
+    float: left;
+}
+
+.full-bg-p{
+    width: 700px;
+    text-align: center;
+    margin-left: 228px;
+    margin-top: 13px;
+    color: #fff;
+    padding-bottom: 107px;
+}
+/******************** Full BG Section End *************************/
+
+
+
+
+/***************** Double Phone Section Start *********************/
+.double-pnone-section{
+    width: 100%;
+    float: left;
+}
+
+.double-phone-img-div{
+    width: 50%;
+    float: left;
+}
+
+.double-phone-img{
+    width: 400px;
+    margin-left: 206px;
+}
+
+.double-phone-text-div{
+    width: 50%;
+    float: left;
+}
+
+.double-phone-h-one{
+    margin-top: 175px;
+    font-size: 33px;
+    font-weight: 100;
+    padding-bottom: 38px;
+}
+
+.double-phone-p{
+    width: 425px;
+    line-height: 1.7;
+    color: #888181;
+}
+
+.double-phone-small-img-div{}
+
+.double-phone-img-one{
+    margin-left: 0px;
+    width: 150px;
+}
+
+.double-phone-img-two{
+    margin-left: 5px;
+    margin-top: 25px;
+    width: 150px;
+}
+
+.get-button{
+
+/* width: 100%; */
+}
+
+.double-phone-bottom-button{
+    margin-top: 120px;
+    margin-left: -133px;
+    box-shadow: 1px 1px 10px #151717;
+    padding: 22px 66px;
+    background-color: #0deaea;
+    border-radius: 5px;
+    border: none;
+}
+/***************** Double Phone Section End *********************/
+
+
+
+
+/********************** Footer Css Start *****************************/
+
+.footer{
+    width: 100%;
+    float: left;
+    background-color: #252348;
+    margin-top: 50px;
+}
+
+.footer-text{
+    width: 50%;
+    float: left;
+    color: #fff;
+}
+
+.footer-icon-items{
+    width: 50%;
+    float: left;
+}
+
+.footer-icon-inner{
+    
+    margin-left: 140px;
+
+}
+
+.footer-icon{
+    color: #fff;
+    font-size: 20px;
+    padding: 11px;
+    margin-left: 5px;
+}
+
+.footer-h-5{
+    width: 200px;
+    margin-left: 110px;
+    padding: 15px;
+}
+
+
+/********************** Footer Css Start *****************************/
